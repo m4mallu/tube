@@ -45,7 +45,7 @@
     <b>1. <u>Deploy to Heroku</u></b><br><br>
     <h6>THIS REPOSITORY CONTAINS SOME RESTRICTED PACKAGES WHICH CAN GET A REPO BAN FROM HEROKU. SO, YOU NEED TO FORK THIS 
     REPOSITORY, EDIT THIS FILE,  ADD THE BELOW CODE WITH YOUR FORKED REPOSITORY NAME IN PLACE OF THIS PARAGRAPH TEXT, 
-    AND THEN PUSH THE CHANGES TO HEROKU.</h6>
+    CHANGE THE app.json ['website', 'repository'] PARAMETERS TO YOUR OWN REPO NAME,AND THEN PUSH THE CHANGES TO HEROKU.</h6>
 
         <a href="https://heroku.com/deploy?template=https://github.com/YOUR-REPOSITORY-PATH">
             <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
