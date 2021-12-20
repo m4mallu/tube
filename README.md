@@ -43,14 +43,9 @@
     <summary><b>Deploy</b></summary>
     <p align="left"></p>
     <b>1. <u>Deploy to Heroku</u></b><br><br>
-    <h6>THIS REPOSITORY CONTAINS SOME RESTRICTED PACKAGES WHICH CAN GET A REPO BAN FROM HEROKU. SO, YOU NEED TO FORK THIS 
-    REPOSITORY, EDIT THIS FILE,  ADD THE BELOW CODE WITH YOUR FORKED REPOSITORY NAME IN PLACE OF THIS PARAGRAPH TEXT, 
-    CHANGE THE app.json ['website', 'repository'] PARAMETERS TO YOUR OWN REPO NAME,AND THEN PUSH THE CHANGES TO HEROKU.</h6>
-
-        <a href="https://heroku.com/deploy?template=https://github.com/YOUR-REPOSITORY-PATH">
+   <a href="https://heroku.com/deploy?template=https://github.com/Boburjonuz/inline-tube-mate">
             <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
         </a><br><br>
-<p>
     <b>2. <u>Deploy to VPS</u></b><br>
     <ul>
         <li>Open a Linux Terminal and run the following commands.</li>
