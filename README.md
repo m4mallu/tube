@@ -42,10 +42,11 @@
 <details>
     <summary><b>Deploy</b></summary>
     <p align="left"></p>
-    <b>1. <u>Deploy to Heroku</u></b><br><br>
-    <h6>THIS REPOSITORY CONTAINS SOME RESTRICTED PACKAGES WHICH CAN GET A REPO BAN FROM HEROKU. SO, YOU NEED TO FORK THIS 
-    REPOSITORY, EDIT THIS FILE,  ADD THE BELOW CODE WITH YOUR FORKED REPOSITORY NAME IN PLACE OF THIS PARAGRAPH TEXT, 
-    CHANGE THE app.json ['website', 'repository'] PARAMETERS TO YOUR OWN REPO NAME,AND THEN PUSH THE CHANGES TO HEROKU.</h6>
+    <br><b><u>This repository cannot be able deploy in heroku due to some reasons.</u></b><br>To deploy this bot in heroku..<br><br>
+        1. Fork this Repository first.<br>
+        2. Change the URL of 'repository' parameter in <a href="https://github.com/m4mallu/tube/blob/main/app.json#L7"> app.json</a> to your fork URL.<br>
+        3. Change the <a href="https://github.com/m4mallu/clonebot/blob/master/README.md?plain=1#L50"> Deploy button URL</a> to your fork URL.<br>
+        4. Finally, deploy it from your own fork.<br><br>
 
         <a href="https://heroku.com/deploy?template=https://github.com/YOUR-REPOSITORY-PATH">
             <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
