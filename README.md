@@ -47,7 +47,7 @@
         2. Change the URL of 'repository' parameter in <a href="https://github.com/m4mallu/tube/blob/main/app.json#L7"> app.json</a> to your fork URL.<br>
         3. Change the <a href="https://github.com/m4mallu/tube/blob/main/README.md?plain=1#L50"> Deploy button URL</a> to your fork URL.<br>
         4. Finally, deploy it from your own fork.<br><br><br>
-    <a href="https://heroku.com/deploy?template=https://github.com/Your-Fork-URL">
+    <a href="https://heroku.com/deploy?template=https://github.com/markantony101/Aj_Utube">
         <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
     </a><br><br>
 <p>
